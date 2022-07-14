@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on no one
 - 📫 You can reach me by my discord account or gmail...
-- Discord : FADE#1550
+- Discord : BIG BOI#1550
 - Gmail : turalozel@gmail.com
 
 <!---
