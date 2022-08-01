@@ -1,0 +1,22 @@
+#include <iostream>
+#include<conio.h>
+
+using namespace std;
+
+
+int main() {
+    int number;
+    while (true)
+    {
+        number = _getch();
+
+        if (number == 224) {
+            number = _getch();
+
+            if (number == 72) cout << "Up" << endl;
+            else if (number == 77) cout << "Right" << endl;
+            else if (number == 75) cout << "Left" << endl;
+            else if (number == 80)  cout << "Down" << endl;
+        }
+    }
+}
