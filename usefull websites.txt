@@ -3,3 +3,5 @@ colors.co		      -->	About colors
 icons8			      -->	Cool icons
 
 uigradients.com   --> Gradient colors
+
+https://codeseven.github.io/toastr/demo.html    -->   information on the top right for html
