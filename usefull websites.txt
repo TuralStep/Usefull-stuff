@@ -1,3 +1,5 @@
-colors.co		-->	About colors
+colors.co		      -->	About colors
 
-icons8			-->	Cool icons
+icons8			      -->	Cool icons
+
+uigradients.com   --> Gradient colors
